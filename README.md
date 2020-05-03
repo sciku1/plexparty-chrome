@@ -1,12 +1,14 @@
-# Netflix Party
+# Plex Party
 
-Netflix Party is a Chrome extension for watching Netflix remotely with friends, e.g., for movie nights with that long-distance special someone. It synchronizes video playback and adds group chat.
+A fork of [Netflix party](https://github.com/netflixparty1/netflixparty-chrome) to support plex
 
-This is the Chrome extension. The source for the server can be found [here](https://github.com/boyers/netflixparty-server), and the source for the [website](https://www.netflixparty.com) can be found [here](https://github.com/boyers/netflixparty-website). The Chrome extension is published [here](https://chrome.google.com/webstore/detail/netflix-party/oocalimimngaihdkbihfgmpkcpnmlaoa) in the Chrome Web Store.
+Plex Party is a Chrome extension for watching Plex remotely with friends, e.g., for movie nights with that long-distance special someone. It synchronizes video playback and adds group chat.
+
+This is the Chrome extension. The source for the server can be found [here](https://github.com/boyers/netflixparty-server).
 
 ## License
 
-Copyright (c) 2016 Stephan Boyer
+Copyright (c) 2020 Tim Lopez
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 

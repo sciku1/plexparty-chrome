@@ -1,0 +1,29 @@
+Macbook Pro:
+
+S4E8 - https://app.plex.tv/desktop#!/server/e4a7cf10fa91fba93f49e11e3516ed1ebcdcdfff/details?key=%2Flibrary%2Fmetadata%2F239&context=library%3Acontent.library
+
+S4E6 - https://app.plex.tv/desktop#!/server/e4a7cf10fa91fba93f49e11e3516ed1ebcdcdfff/details?key=%2Flibrary%2Fmetadata%2F237&context=library%3Acontent.library
+
+Windows 10:
+
+S4E8 - https://app.plex.tv/desktop#!/server/e4a7cf10fa91fba93f49e11e3516ed1ebcdcdfff/details?key=%2Flibrary%2Fmetadata%2F239&context=library%3Acontent.library
+
+S3E6 - https://app.plex.tv/desktop#!/server/e4a7cf10fa91fba93f49e11e3516ed1ebcdcdfff/details?key=%2Flibrary%2Fmetadata%2F237&context=library%3Acontent.library
+
+
+broadcast()
+VM1149 content_script.js:11824 localTime/getPlaybackPosition() 3
+VM1149 content_script.js:11825 now.getTime() x
+VM1149 content_script.js:11826 lastKnownTimeUpdatedAt.getTime() 1588536196666 (05/03/2020 @ 8:03pm (UTC))
+VM1149 content_script.js:11830 localTimeMinusServerTimeMedian 0
+VM1149 content_script.js:11842 broadcast -> serverTime 2
+VM1149 content_script.js:11739 sync -> state !== paused
+VM1149 content_script.js:11755 6
+VM1149 content_script.js:11269 seek(5563)
+VM1149 content_script.js:11775 sync -> Math.abs(localTime - serverTime) > maxTimeError -> !(localTime > serverTime && localTime <= serverTime) + maxTimeError -> playa
+VM1149 content_script.js:11821 broadcast()
+VM1149 content_script.js:11824 localTime/getPlaybackPosition() 1
+VM1149 content_script.js:11825 now.getTime() 1588536204815
+VM1149 content_script.js:11826 lastKnownTimeUpdatedAt.getTime() 1588536200474
+VM1149 content_script.js:11830 localTimeMinusServerTimeMedian 0
+VM1149 content_script.js:11842 broadcast -> serverTime 4344

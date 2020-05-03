@@ -1,10 +1,10 @@
 {
   "extName": {
-    "message": "Netflix Party",
+    "message": "Plex Party",
     "description": "Extension name"
   },
   "extDescription": {
-    "message": "Watch Netflix remotely with friends",
+    "message": "Watch Plex remotely with friends",
     "description": "Extension description"
   }
 }
